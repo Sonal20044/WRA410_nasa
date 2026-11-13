@@ -25,7 +25,7 @@ in your notes below.
 ## Add your Info Below:
 Group: Bella, Sonal and Jisoo 
 
-# WRA 410 — Assignment 03: NASA Picture of the Day
+## WRA 410_Assignment 03: NASA Picture of the Day
 
 ## What we made
 A simple webpage that uses NASA's Astronomy Picture of the Day API. The webpage shows the newest picture, its title, date, and explanation. We styled it with CSS.
